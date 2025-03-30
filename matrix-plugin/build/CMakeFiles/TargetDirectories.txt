@@ -1,0 +1,7 @@
+/home/vboxuser/matrix-plugin/build/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/matrix-plugin/build/CMakeFiles/MatrixPass.dir
+/home/vboxuser/matrix-plugin/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/vboxuser/matrix-plugin/build/CMakeFiles/acc_gen.dir
+/home/vboxuser/matrix-plugin/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/matrix-plugin/build/CMakeFiles/omp_gen.dir
+/home/vboxuser/matrix-plugin/build/CMakeFiles/intrinsics_gen.dir

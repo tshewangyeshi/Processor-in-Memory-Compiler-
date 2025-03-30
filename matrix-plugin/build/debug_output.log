@@ -1,0 +1,7 @@
+Running analysis: InnerAnalysisManagerProxy<FunctionAnalysisManager, Module> on [module]
+Skipping pass MatrixPass on multiply due to optnone attribute
+Skipping pass: MatrixPass on multiply
+Skipping pass MatrixPass on main due to optnone attribute
+Skipping pass: MatrixPass on main
+Running pass: VerifierPass on [module]
+Running analysis: VerifierAnalysis on [module]

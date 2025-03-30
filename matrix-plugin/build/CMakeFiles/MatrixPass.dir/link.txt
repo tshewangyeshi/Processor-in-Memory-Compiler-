@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libMatrixPass.so CMakeFiles/MatrixPass.dir/src/MatrixPass.cpp.o 
